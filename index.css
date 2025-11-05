@@ -227,8 +227,7 @@ h2 {
   opacity: 0.9;
 }
 
-.contact__info a,
-.contact__info p:last-child {
+.contact__info a {
   font-weight: 600;
   color: #00aaff;
 }
